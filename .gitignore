@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+runs/*.md
+runs/test_output/
+.pytest_cache/
